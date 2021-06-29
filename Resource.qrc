@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>IMG/icons8-вперед-24.png</file>
+        <file>IMG/icons8-вставить-24.png</file>
+        <file>IMG/icons8-вырезать-24.png</file>
+        <file>IMG/icons8-назад-24.png</file>
+        <file>IMG/icons8-новый-файл-24.png</file>
+        <file>IMG/icons8-скопировать-24.png</file>
+        <file>IMG/icons8-сохранить-24.png</file>
+        <file>IMG/icons8-сохранить-как-24.png</file>
+        <file>IMG/icons8-открыть-файл-под-курсором-24.png</file>
+        <file>IMG/icons8-о-нас-24.png</file>
+    </qresource>
+</RCC>
